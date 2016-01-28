@@ -1,0 +1,79 @@
+
+.grupo{
+	background: url("../img/grupal.jpg") no-repeat;
+	height: 800px;
+	background-size:cover;
+}
+
+.suma{
+	width: 110px;
+	height: 60px;
+	position: absolute;
+	top: 45px;
+	left: 200px;
+	background-color: #FCB739;
+}
+.sumate{
+	padding: 20px;
+	margin-left: 7px;
+}
+.logo{
+	width: 29%;
+	position: relative;
+	top: 70px;
+	left: 405px;
+}
+nav{
+    margin-top: -30px;
+    position: relative;
+    left: 795px;
+    width: 300px;
+}
+nav ul{
+    list-style:none;
+ }
+ nav ul li{
+ 	float:left;
+    font-weight:bold;
+ }
+ nav ul li a{
+ 	color:#333333;
+    display:block;
+    padding:10px;
+    text-decoration:none;
+ }
+section{
+	height: 350px;
+ }
+ table{
+ 	height: 100px;
+ 	width: 900px;
+ 	position: relative;
+ 	border-spacing: 30px;
+ 	left: 100px;
+ }
+td img{
+	width: 300px;
+	margin-bottom: 0;
+}
+td a{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: -25px;
+	font-weight: bold;
+}
+footer{
+	height: 100px;
+	background-color: #323230;
+}
+.col-12 ul li{
+	list-style: none;
+	display: block;
+	color: white
+}
+.footer{
+	position: relative;
+	text-align: center;
+	padding: 40px;
+}
